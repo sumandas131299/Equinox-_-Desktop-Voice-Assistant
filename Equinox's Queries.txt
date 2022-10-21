@@ -1,0 +1,31 @@
+*Query ------------------------------TaskExecute
+	+++formal commands++
+
+1* "where we are" or  "current location" ------------ it will tell the current location city and country;
+2* "switch window" or "switch tab" -------------------- change tab "alt+tab"
+3* hello --------------I will tell you who it is 
+4* how are you ---------- will talk with you
+5*take a break --------- stop execution/inner-program
+6* tell me a joke' ------- tell jokes
+
+
+        +++youtube commands+++
+1* Search in youtube ------- it will ask you what to search , *note* GIVE COMMAND AGAIN ;
+	eg. Messi;
+
+2* play song on youtube ------------ it will ask you "tell me the song name"  , *note* GIVE COMMAND AGAIN ;
+        eg. careless wishper goerge michael
+
+
+       ++++open App command++++
+
+1* 'open app' ------------ it will ask for "Tell me the name of the Application" , *note* GIVE COMMAND AGAIN ;
+     eg. chrome or Discord
+
+       ++++++Search commands+++++
+1* wikipedia search elon musk ------------- it will search in wiki and read two  lines for you ;
+2* google search -------------------it will ask for "What should I search on google" , *note* GIVE COMMAND AGAIN ;
+	eg. Delhi
+
+3*'launch website'-------------------it will ask for "tell me the name of website" , *note* GIVE COMMAND AGAIN ;
+	eg. facebook
